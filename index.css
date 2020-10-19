@@ -1,0 +1,41 @@
+.text-cad{
+    color: rgb(31, 138, 226)  !important;
+}
+
+.btn-CADCAM{
+ background-color: rgb(31, 138, 226);   
+ color: white;
+}
+.btn-CADCAM:hover{
+    background-color: rgb(10, 78, 133);   
+   }
+   
+
+#header img {
+width: 80px;
+
+}
+
+#main .carousel-inner img{
+    max-height: 40vh;
+    object-fit: unset;
+}
+#carousel {
+    position: relative;
+}
+#carousel .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left:0;
+    right: 0;
+    background-color: rgb(0, 0, 0,0.5);
+    color: seashell;
+}
+
+#footer {
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+#footer a {
+    color: aliceblue;
+}
